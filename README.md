@@ -12,3 +12,5 @@ The gestures are continuously monitored by the webcam mounted on the TV. Each ge
  
 
 Each video is a sequence of 30 frames (or images). 
+
+The attached document contains detailed explanation of each of the experiments carried out as part of the case study we did
